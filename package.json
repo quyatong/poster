@@ -1,9 +1,9 @@
 {
-  "name": "poster",
-  "author": "Ryan French <frenchrya@gmail.com>",
+  "name": "breakpoint-poster",
+  "author": "Yatong Qu <quyatong@126.com>",
   "homepage": "",
-  "version": "0.0.9",
-  "description": "node.js module for streaming local/remote files over multipart.",
+  "version": "0.0.2",
+  "description": "node.js module for streaming local/remote files over multipart, support breakpoint upload",
   "keywords": [
     "upload", 
     "multipart",
@@ -15,14 +15,11 @@
   },
   "repository": {
       "type": "git",
-      "url": "git://github.com/rfrench/poster.git"
+      "url": "git://github.com/quyatong/poster.git"
   },
   "directories": {
       "lib": "lib"
   },
   "main": "./index",
-  "engines" : ["node >= 0.8.0"],
-  "scripts": {
-    "test": "node test/run.js"
-  }
+  "engines" : ["node >= 0.8.0"]
 }

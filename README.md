@@ -3,7 +3,7 @@ Async node module for uploading local/remote files over multipart.
 
 ## Install
 <pre>
-  $ npm install poster
+  $ npm install breakpoint-poster
 </pre>
 
 ## post(uri, options, callback[err, data])
