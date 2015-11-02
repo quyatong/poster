@@ -2,7 +2,7 @@
   "name": "breakpoint-poster",
   "author": "Yatong Qu <quyatong@126.com>",
   "homepage": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node.js module for streaming local/remote files over multipart, support breakpoint upload",
   "keywords": [
     "upload", 
